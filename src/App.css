@@ -56,7 +56,7 @@ body {
 .addTask {
   height: 30vh;
   background-color: dodgerblue;
-  width: 100%;
+  width: 90%;
   display: flex;
   justify-content: center;
   align-items: center;
