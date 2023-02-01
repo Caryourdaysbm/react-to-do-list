@@ -34,7 +34,7 @@ const completeTask = (id) => {
 }
 
   return (
-    <div className='body'>
+    <div className='App'>
 <div className="addTask">
 <input type="text" onChange={handleChange} />
 {/* <h1>{newTask}</h1> */}
